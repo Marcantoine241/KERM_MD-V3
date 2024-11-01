@@ -1,7 +1,7 @@
 {
-  "name": "KERM_MD-V3",
+  "name": "marc Antoine programme",
   "version": "10.8.1",
-  "description": "Kerm-MD latest multi device whatsapp bot",
+  "description": "marc est un bg ❤️",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "restart": "pm2 restart Kerm-MD"
   },
   "keywords": ["kerm-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Kg-Tech",
+  "author": "marc-bot",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
